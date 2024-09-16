@@ -1,6 +1,6 @@
 # Titanic - Machine Learning Disaster
 
-This repository contains a machine learning project aimed at predicting the survival of passengers aboard the Titanic, using the popular Kaggle dataset. The project walks through various stages of data analysis and machine learning model building, from data preprocessing to model evaluation.
+This project contains a machine learning project aimed at predicting the survival of passengers aboard the Titanic, using the popular Kaggle dataset. The project walks through various stages of data analysis and machine learning model building, from data preprocessing to model evaluation. The models are deployed using Streamlit.
 
 ## Dataset
 
@@ -42,6 +42,9 @@ The dataset includes features like:
 
 5. **Submission**:
    - Generating predictions on the test set and preparing a CSV file for Kaggle submission.
+
+6. **Deployment to Streamlit**:
+   - The model is deployed using Streamlit, allowing users to interact with the machine learning model through a web-based interface.
 
 ## Results
 
